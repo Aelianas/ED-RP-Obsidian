@@ -17,3 +17,5 @@ Bio:
 WIP
 
 [[Aelianas Vagrantia]]'s employer at [[Hyperion Galactic Commerce Company]].
+
+Commanding Officer of the [[Lethal Mtn Dew Can]].
