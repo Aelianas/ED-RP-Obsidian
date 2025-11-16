@@ -1,0 +1,1 @@
+Now-defunct trading company, run by [[Lucinda Jorgens]], brought down by [[Llara Jaimes]] and [[Aelianas Vagrantia]] for illegal operations.
