@@ -9,6 +9,7 @@ Company Affiliations: [[Hyperion Galactic Commerce Company]]
 Company Positions: CEO of [[Hyperion Galactic Commerce Company]]
 Image:
 ![[valeria.png]]
+Race: [[Human]]
 
 Notable Features:
 Calm, calculating demeanor; sharp grey-blue eyes; a distinct yet faint scar along the left jaw; several old combat scars on hands and forearms; usually seen in practical flight leathers with Hyperion insignia rather than full dress.

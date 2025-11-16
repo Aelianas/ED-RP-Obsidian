@@ -7,6 +7,7 @@ Height: 181 cm
 Weight: 125 kg
 Company Affiliations: [[Hyperion Galactic Commerce Company]]
 Position: Member
+Race: [[Human]]
 
 Notable Features:
 Moderately tattooed. Broad shouldered. Full beard. Hazel eyes. Widow's peak hairline and receding - resulting in a short buzzcut being his go-to. Muscular, but evidently fond of food. 

@@ -10,7 +10,7 @@
 ### ==Position:== Survey Corp, Public Relations
 ### ==Image:==
 ![[kodiak.jpg|256]]
-
+Race: [[Human]]
 #### ==Bio:==
 ##### Born on Achenar in 3528, Juno Rhal grew up beneath the polished marble and iron discipline of Imperial society. Like many sons of the core worlds, his path was shaped early: service first, questions later. When finally of age, he enlisted in the Imperial Navy, serving as a fighter pilot under Emperor Arissa Lavigny-Duval during her early campaigns to solidify her control over the Empire.
 

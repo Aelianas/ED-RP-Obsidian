@@ -15,6 +15,7 @@
 #### ==Image:==
 ![[aelianas.png|180]]
 
+Race: [[Human]]
 #### ==Bio:==
 ###### Aelianas has green eyes, but wears a purple contact in her natural eye. Her hair color is naturally auburn, but she keeps it dyed a vibrant purple. She is white, but with a very minor tan from a vacation with the love of her life that never really went away.
 
