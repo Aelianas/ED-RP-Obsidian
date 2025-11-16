@@ -37,7 +37,7 @@ To some, Nyrix was a savior, the blade of the Empire come to strike down evil wh
 To others, they were simply an opportunist, a pretender, or a threat. 
 And to all, they remain an unknown. 
 
-**Current Status: Hyperion Galactic Commerce Co.**
+**Current Status: [[Hyperion Galactic Commerce Company]]**
 Eventually, their wanderings brought them to Hyperion, a corporation seemingly unbothered by their origins. The HGCC allowed them something no superpower truly could. Freedom, autonomy, and access to routes, ruins, and relics normally trapped behind red tape and bureaucracy. Though rarely seen in company holdings, Nyrix reliably transmits exploration data of any interesting finds to the company. While their interest remains firmly routed in Exo-Biology, the Outsider does understand humanity needs resources to expand and explore. In Nyrix at the very least, humanity has a quiet ally, working to improve the fledgling species control and standing in the galaxy. 
 
 **Appearance and Physiology**
