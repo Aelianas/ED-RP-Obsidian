@@ -58,3 +58,6 @@ Described as:
 **Summary**
 
 Nyrix remains one of the most enigmatic figures operating around human space. Neither threat, nor ally by default. Their actions follow a logic and code that only they truly understand.
+
+### **Personal Affiliations:**
+[[Valeria Kaine]] - Employer
