@@ -33,3 +33,8 @@ And that is why Brahx is here, allied with the good people at HGCC. Shared dream
 Feel free to stop by 'Brahx's Big Blue Base' in B352 Sector MY-Q b5-0. The door is unlocked and the kettle is on.
 
 o7
+
+### **Personal Affiliations:**
+[[Valeria Kaine]] - Employer
+[[Aelianas Vagrantia]] - Executive Officer
+[[Juno Rhal]] - Coworker
