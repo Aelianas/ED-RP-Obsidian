@@ -1,0 +1,1 @@
+https://elite-dangerous.fandom.com/wiki/Construct

@@ -11,3 +11,6 @@ Notable features: Freckles on face and arms, gorgeous brown eyes, kissable lips.
 
 Bio:
 WIP
+
+### **Personal Affiliations:**
+[[Aelianas Vagrantia]] - Wife

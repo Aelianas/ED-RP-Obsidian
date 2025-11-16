@@ -1,1 +1,5 @@
 Lucinda Jorgens was the COO of [[Lucinda Corporation]] before it was brought down for illegal activities. She was in prison for life for her crimes. She died after being stabbed by a person who lost his family after her company forcefully took his family's land after killing them. Her former best-friend was [[Llara Jaimes]].
+
+### **Personal Affiliations:**
+[[Llara Jaimes]] - Employee, former best friend
+[[Aelianas Vagrantia]] - Employee
