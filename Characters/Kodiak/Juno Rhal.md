@@ -23,3 +23,8 @@
 ##### Though he avoids Imperial space, Rhal still carries the bearing of a soldier. His voice is measured, his movements deliberate and sure. Pride remains in his very bearing and behavior. He rarely speaks of the Empire, but when he does, his disdain and borderline hatred for Arissa Lavigny-Duval is unmistakable. Not born from rebellion, but from perceived betrayal. While he believes in the reforms of Aisling Duval, Rhal has fallen in with more independent powers: powers like Li Yong-Rui.
 
 ##### There are rumors that Juno Rhal, now using the name Kodiak Kaarn, is using his personal funds to filter munitions and supplies to anti-Imperial forces in the Imperial Core worlds. Though most believe these to be nothing more than the bored gossiping of deep space traders and haulers, it has lead to one or two less than friendly encounters with Imperial Special Police. Rhal maintains that these are false, but it bears wondering that he has not revisited his homeworld, family, or people since departing many years ago. To most, Kodiak is a friendly, if a bit standoffish pilot. To some he is a mystery, a wandering hermit seeking precious metals and minerals within asteroid belts. To others yet still, he is a mystery, with motives and goals unknown.
+
+### **Personal Affiliations:**
+[[Valeria Kaine]] - Employer
+[[Aelianas Vagrantia]] - Executive Officer
+[[Toben Brahx]] - Coworker

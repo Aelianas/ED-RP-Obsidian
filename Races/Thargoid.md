@@ -1,0 +1,1 @@
+See https://elite-dangerous.fandom.com/wiki/Thargoid

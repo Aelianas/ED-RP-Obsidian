@@ -1,0 +1,7 @@
+**Species Summary**
+
+The Elythari are an enigmatic, ancient species originating from the deep interstellar void far beyond humanity’s reach or influence. Evolved in regions of perpetual darkness and extreme isolation, they developed tall, lithe and almost predatory physiologies supported by adaptive bio-synthetic tissues: part living matter, part engineered construct. This fusion grants them resilience, long lifespans, and a natural resistance to conventional scanning.
+
+For millennia, the Elythari have acted as silent observers of emerging civilizations. Their guiding philosophy, **The Long Watching**, teaches that knowledge must be gathered with patience and minimal interference. Though not openly expansionist, they possess a technological sophistication that blurs the line between biology and machinery, with armor and tools that behave as semi-living extensions of themselves. Including the virtual intelligences they often travel with.
+
+They rarely intervene directly in the affairs of other species. Individuals like Nyrix, known by their peoples as *Pathfinders*, represent rare exceptions: Elythari who venture outward to study promising or volatile societies firsthand. Their motivations are academic, their methods often rational, and their presence both calming and quietly unsettling.

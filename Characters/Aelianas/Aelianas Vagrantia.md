@@ -33,3 +33,11 @@
 ###### Although she was raised to be more law-abiding in some areas, Llara taught her that some situations call for more unlawful responses, such as when security ships allow known criminals to get away with serious crimes. When something like this happens, Aelianas tends to get chaotic and go overboard with her vengance, usually with an ungodly, maniacal cackle.
 
 ###### Aelianas is currently the Executive Officer of the [[Hyperion Galactic Commerce Company]]. She is also the Commanding Officer of the [[Purple Cat Paradise (Fleet Carrier)]].
+
+### **Personal Affiliations:**
+[[Noodle Vagrantia]] - Life Partner
+[[Llara Jaimes]] - Adoptive Mother
+[[Lucinda Jorgens]] - Former Employer
+[[Valeria Kaine]] - Employer
+[[Toben Brahx]] - Coworker
+[[Juno Rhal]] - Coworker
