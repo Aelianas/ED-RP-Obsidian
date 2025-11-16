@@ -1,4 +1,5 @@
 ![[nyrix.png]]
+Race: [[Elythari]]
 
 **A Watcher From Beyond Known Space**
 
