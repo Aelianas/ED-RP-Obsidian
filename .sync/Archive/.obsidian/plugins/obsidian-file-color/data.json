@@ -1,0 +1,38 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "jA4435viPrf0suLwujzxC",
+      "name": "Rebecca",
+      "value": "#663399"
+    },
+    {
+      "id": "jQkdQ1g5XSzyZbQwrq2jF",
+      "name": "Sage",
+      "value": "#87ae73"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Characters/Aelianas/Aelianas Vagrantia.md",
+      "color": "jA4435viPrf0suLwujzxC"
+    },
+    {
+      "path": "Characters/NPCs/Noodle Vagrantia.md",
+      "color": "jQkdQ1g5XSzyZbQwrq2jF"
+    },
+    {
+      "path": "Fleet Carriers/Purple Cat Paradise (Fleet Carrier).md",
+      "color": "jA4435viPrf0suLwujzxC"
+    },
+    {
+      "path": "Companies/Purple Cat Paradise (Company).md",
+      "color": "jA4435viPrf0suLwujzxC"
+    },
+    {
+      "path": "Companies/SugarNoodle Trading Company.md",
+      "color": "jQkdQ1g5XSzyZbQwrq2jF"
+    }
+  ]
+}
