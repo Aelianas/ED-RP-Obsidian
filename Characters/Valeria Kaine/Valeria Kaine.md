@@ -16,6 +16,6 @@ Calm, calculating demeanor; sharp grey-blue eyes; a distinct yet faint scar alon
 Bio:
 WIP
 
-[[Aelianas Vagrantia]]'s employer at [[Hyperion Galactic Commerce Company]].
+Employer of [[Aelianas Vagrantia]], [[Juno Rhal]], [[Nyrix, the Observer]], and [[Toben Brahx]] at [[Hyperion Galactic Commerce Company]].
 
 Commanding Officer of the [[Lethal Mtn Dew Can]].
