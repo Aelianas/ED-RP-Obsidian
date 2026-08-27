@@ -17,7 +17,7 @@ Calm, calculating demeanor; sharp grey-blue eyes; a distinct yet faint scar alon
 Bio:
 WIP
 
-Commanding Officer of the [[Lethal Mtn Dew Can]].
+Commanding Officer of the [[Lethal Mtn Dew Can (K2B-24X)]].
 
 ### **Personal Affiliations:**
 	- Employer of:

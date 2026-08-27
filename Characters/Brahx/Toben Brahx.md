@@ -21,7 +21,7 @@ For a brief stint, he ran courier missions for the Empire and achieved the rank 
 
 In the early part of 3311, he moved to Omicron Capricorni B and raked in a tremendous amount of credits from laser mining in that Cutter.
 
-Before too long, his fortune facilitated the procurement of a fleet carrier. The [[Cuttlebone]], glowing ice white under starlight, has been his base of operations ever since. 
+Before too long, his fortune facilitated the procurement of a fleet carrier. The [[Cuttlebone (W6T-22Q)]], glowing ice white under starlight, has been his base of operations ever since. 
 
 Later that year, he travelled to TZ Arietis, and switched allegiance to the Federation. It was an action of convenience. Then a springboard into a dedicated community of Pilot Federation CMDRs with a wealth of knowledge and experience. 
 
