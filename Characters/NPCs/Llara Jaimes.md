@@ -1,9 +1,9 @@
 Status: Deceased
 Age of Death: 61
-Family: [[Aelianas Vagrantia]] (Adopted Daughter)
+Family: [[Aelianas]] (Adopted Daughter)
 Race: [[Human]]
 
-Llara Jaimes (Yah-ra High-Mehz) was the adoptive mother of [[Aelianas Vagrantia]] and former Senior Executive of [[Lucinda Corporation]]. Llara was very much against her associates' use of illegal money-making operations, such as the rescue mission that included an illegal salvage operation on a ship that led to the discovery of infant Aelianas.
+Llara Jaimes (Yah-ra High-Mehz) was the adoptive mother of [[Aelianas]] and former Senior Executive of [[Lucinda Corporation]]. Llara was very much against her associates' use of illegal money-making operations, such as the rescue mission that included an illegal salvage operation on a ship that led to the discovery of infant Aelianas.
 
 Llara never married.
 
@@ -11,4 +11,4 @@ Although Llara was more rule-abiding in most areas, she also knew that the law w
 
 ### **Personal Affiliations:**
 [[Lucinda Jorgens]] - Employer, former best friend
-[[Aelianas Vagrantia]] - Adopted Daughter
+[[Aelianas]] - Adopted Daughter

@@ -37,5 +37,5 @@ o7
 
 ### **Personal Affiliations:**
 [[Valeria Kaine]] - Employer
-[[Aelianas Vagrantia]] - Executive Officer
+[[Aelianas]] - Executive Officer
 [[Juno Rhal]] - Coworker

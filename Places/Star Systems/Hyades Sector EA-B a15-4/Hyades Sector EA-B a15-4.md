@@ -1,1 +1,1 @@
-The second system colonized by [[Aelianas Vagrantia]].
+The second system colonized by [[Aelianas]].

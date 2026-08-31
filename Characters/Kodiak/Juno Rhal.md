@@ -26,5 +26,5 @@ Race: [[Human]]
 
 ### **Personal Affiliations:**
 [[Valeria Kaine]] - Employer
-[[Aelianas Vagrantia]] - Executive Officer
+[[Aelianas]] - Executive Officer
 [[Toben Brahx]] - Coworker

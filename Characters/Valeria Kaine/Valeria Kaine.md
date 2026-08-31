@@ -21,7 +21,7 @@ Commanding Officer of the [[Lethal Mtn Dew Can (K2B-24X)]].
 
 ### **Personal Affiliations:**
 	- Employer of:
-- [[Aelianas Vagrantia]] 
+- [[Aelianas]] 
 - [[Juno Rhal]]
 - [[Nyrix, the Observer]] 
 - [[Toben Brahx]]

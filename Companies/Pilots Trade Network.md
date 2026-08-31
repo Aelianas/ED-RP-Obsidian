@@ -1,0 +1,1 @@
+The Pilots Trade Network is an organization dedicated to market research and helping pilots make the most possible money from trade routes, as easily as possible. They run the "Booze Cruise" event at [[Rackham's Peak]].

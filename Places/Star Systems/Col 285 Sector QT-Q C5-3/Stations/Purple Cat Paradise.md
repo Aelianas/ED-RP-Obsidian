@@ -1,1 +1,1 @@
-Purple Cat Paradise is a bar local to [[Col 285 Sector QT-Q C5-3]]. It's the first location started by [[Aelianas Vagrantia]].
+Purple Cat Paradise is a bar local to [[Col 285 Sector QT-Q C5-3]]. It's the first location started by [[Aelianas]].

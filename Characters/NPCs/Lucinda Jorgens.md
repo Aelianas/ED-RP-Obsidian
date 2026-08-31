@@ -3,4 +3,4 @@ Lucinda Jorgens was the COO of [[Lucinda Corporation]] before it was brought dow
 
 ### **Personal Affiliations:**
 [[Llara Jaimes]] - Employee, former best friend
-[[Aelianas Vagrantia]] - Employee
+[[Aelianas]] - Employee

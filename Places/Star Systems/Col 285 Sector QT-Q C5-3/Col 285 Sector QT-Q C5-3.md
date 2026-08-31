@@ -9,4 +9,4 @@
 	- [[Divis Platform]]
 	- [[Silverberg Vista]]
 
-The first system colonized by [[Aelianas Vagrantia]]. It's the home of the first [[Purple Cat Trading Company|Purple Cat Trading Company]] and [[Purple Cat Paradise (Company)]] locations.
+The first system colonized by [[Aelianas]]. It's the home of the first [[Purple Cat Trading Company|Purple Cat Trading Company]] and [[Purple Cat Paradise (Company)]] locations.

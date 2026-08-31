@@ -5,4 +5,4 @@
 	Military
 	Extraction
 
-SugarNoodle Trading Company is the first [[Purple Cat Trading Company|Purple Cat Trading Company]] location started by [[Aelianas Vagrantia]].
+SugarNoodle Trading Company is the first [[Purple Cat Trading Company|Purple Cat Trading Company]] location started by [[Aelianas]].
