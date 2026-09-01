@@ -1,7 +1,8 @@
 # ==CMDR Name:== Aelianas Vagrantia
 # ==Alias:== Aelianas
 ### ==Birthplace:== Unknown
-### ==Age:== 33
+### ==Age:== `$= Math.max(0, new Date().getFullYear() - 2030)`
+
 ### ==Gender:== Female
 ### ==Height:== 179.07cm
 ### ==Weight:== 79.37kg
