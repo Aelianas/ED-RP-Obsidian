@@ -2,7 +2,26 @@
 # ==Alias:== Aelianas
 ### ==Birthplace:== Unknown
 ### ==Age:== 
-```The current in-game year is `= "3" + (new Date().getUTCFullYear() + 1286).toString().slice(1)`
+```dataviewjs
+// 1. Get the current real-world year and calculate the Elite Dangerous year (+1286)
+const realYear = dv.date("now").year;
+const eliteYear = realYear + 1286;
+
+// 2. Set the target birthday
+const birthday = dv.date("3278-07-28");
+
+// 3. Calculate baseline age difference in years
+let age = eliteYear - 3278;
+
+// 4. Adjust age downward if the birthday hasn't occurred yet in the current Elite year
+const currentMonthDay = dv.date("now").toFormat("MM-dd");
+if (currentMonthDay < "07-28") {
+    age--;
+}
+
+// 5. Output the result dynamically
+dv.paragraph(`**Current Elite Year:** ${eliteYear} | **Age:** ${age} years old`);
+```
 
 
 ### ==Gender:== Female
@@ -20,7 +39,7 @@
 
 Race: [[Human]]
 #### ==Bio:==
-###### Aelianas has green eyes, but wears a purple contact in her natural eye. Her hair color is naturally auburn, but she keeps it dyed a vibrant purple. She is white, but with a very minor tan from a vacation with the love of her life that never really went away.
+###### Aelianas has green eyes, but wears a purple contact in her natural eye. Her hair color is naturally auburn, but she keeps it dyed a vibrant purple. She is white, but with a very minor tan from a vacation that never really went away.
 
 ###### Aelianas was rescued during a search-and-rescue mission at 3 months old. She was found in a Sidewinder, owned by a deceased couple that was boarded and raided by pirates. The standing theory is that the pirates didn't feel particularly good about killing an infant, but they were also not against leaving it to starve. However, some evidence from the crime scene suggested that the pirates sent out a distress call after plundering the ship so that the child could be rescued. Fingerprints not matching the ship's commanders were found on the controls of the distress call sequence keys. The pirates were never caught.
 
