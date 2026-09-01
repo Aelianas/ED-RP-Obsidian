@@ -1,7 +1,9 @@
 # ==CMDR Name:== Aelianas Vagrantia
 # ==Alias:== Aelianas
 ### ==Birthplace:== Unknown
-### ==Age:== `$= Math.max(0, new Date().getFullYear() - 2030)`
+### ==Age:== 
+```The current in-game year is `= "3" + (new Date().getUTCFullYear() + 1286).toString().slice(1)`
+
 
 ### ==Gender:== Female
 ### ==Height:== 179.07cm
