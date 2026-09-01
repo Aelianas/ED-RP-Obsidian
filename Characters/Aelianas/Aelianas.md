@@ -23,7 +23,6 @@ if (currentMonthDay < "07-28") {
 dv.paragraph(`**Current Elite Year:** ${eliteYear} | **Age:** ${age} years old`);
 ```
 
-
 ### ==Gender:== Female
 ### ==Height:== 179.07cm
 ### ==Weight:== 79.37kg
