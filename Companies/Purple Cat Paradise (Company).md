@@ -1,3 +1,3 @@
-Purple Cat Paradise, or PCP, is a subsidiary of the [[Purple Cat Trading Company]], run by [[Aelianas]]. It is designed to be an all-encompassing entertainment venue that every day citizens can afford when they need to get away from their daily lives for a little bit.
+Purple Cat Paradise, or PCP, is a subsidiary of the [[Companies/Purple Cat Trading Company]], run by [[Aelianas]]. It is designed to be an all-encompassing entertainment venue that every day citizens can afford when they need to get away from their daily lives for a little bit.
 
 It includes various venues, such as vacation getaways, arcades, bars, nightclubs, state-of-the-art virtual reality meditation rooms, sports clubs, exercise gyms, etc. Just about anything you can be entertained by, it has it, within legal limits.

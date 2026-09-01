@@ -6,11 +6,11 @@
 ### ==Height:== 179.07cm
 ### ==Weight:== 79.37kg
 ### ==Notable Features:== beauty mark under and to the side of left eye, cybernetic left eye
-#### ==Company Affiliation:== [[Hyperion Galactic Commerce Company]] | [[Purple Cat Trading Company]] || [[Purple Cat Paradise (Company)]]
+#### ==Company Affiliation:== [[Hyperion Galactic Commerce Company]] | [[Companies/Purple Cat Trading Company]] || [[Purple Cat Paradise (Company)]]
 
 #### ==Positions:==
 - #### Executive Officer of [[Hyperion Galactic Commerce Company]]
-- #### CEO of both [[Purple Cat Paradise (Company)]] and [[Purple Cat Trading Company]]
+- #### CEO of both [[Purple Cat Paradise (Company)]] and [[Companies/Purple Cat Trading Company]]
 - #### Commanding Officer of [[Purple Cat Paradise (Fleet Carrier) (VFN-N5G)]]
 #### ==Image:==
 ![[aelianas.png|180]]
@@ -27,7 +27,7 @@ Race: [[Human]]
 
 ###### She is unaffected by the death of her biological parents. In her eyes, Llara was the only mother she could have ever asked for and finds herself extremely lucky to have been raised by her.
 
-###### After the fall of the company, Aelianas started a couple companies of her own, the [[Purple Cat Trading Company]], a trading company established to help people who are trying to get a fresh start in a new system, and [[Purple Cat Paradise (Company)]], a chain of various entertainment services meant to help commanders unwind after a long, stressful day. Her main goal in starting both of these companies is to offer people various job opportunities in areas where work is scarce, allowing people to make an honest living to afford for their families.
+###### After the fall of the company, Aelianas started a couple companies of her own, the [[Companies/Purple Cat Trading Company]], a trading company established to help people who are trying to get a fresh start in a new system, and [[Purple Cat Paradise (Company)]], a chain of various entertainment services meant to help commanders unwind after a long, stressful day. Her main goal in starting both of these companies is to offer people various job opportunities in areas where work is scarce, allowing people to make an honest living to afford for their families.
 
 ###### Aelianas is extremely casual, goofy, and contagiously cheerful, despite everything she's gone through. However, she can be serious when the moment requires it.
 
