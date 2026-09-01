@@ -3,26 +3,8 @@
 ### ==Birthplace:== Unknown
 ### ==Age:== 
 ```dataviewjs
-// 1. Get the current real-world year and calculate the Elite Dangerous year (+1286)
-const realYear = dv.date("now").year;
-const eliteYear = realYear + 1286;
-
-// 2. Set the target birthday
-const birthday = dv.date("3278-07-28");
-
-// 3. Calculate baseline age difference in years
-let age = eliteYear - 3278;
-
-// 4. Adjust age downward if the birthday hasn't occurred yet in the current Elite year
-const currentMonthDay = dv.date("now").toFormat("MM-dd");
-if (currentMonthDay < "07-28") {
-    age--;
-}
-
-// 5. Output the result dynamically
-dv.paragraph(`**Current Elite Year:** ${eliteYear} | **Age:** ${age} years old`);
+`= round((date(today) - date(1992-07-28)).years)` years old.
 ```
-
 ### ==Gender:== Female
 ### ==Height:== 179.07cm
 ### ==Weight:== 79.37kg
@@ -34,11 +16,11 @@ dv.paragraph(`**Current Elite Year:** ${eliteYear} | **Age:** ${age} years old`)
 - #### CEO of both [[Purple Cat Paradise (Company)]] and [[Companies/Purple Cat Trading Company]]
 - #### Commanding Officer of [[Purple Cat Paradise (Fleet Carrier) (VFN-N5G)]]
 #### ==Image:==
-![[aelianas.png|180]]
+![[EDAelianasNew.png|256]]
 
 Race: [[Human]]
 #### ==Bio:==
-###### Aelianas has green eyes, but wears a purple contact in her natural eye. Her hair color is naturally auburn, but she keeps it dyed a vibrant purple. She is white, but with a very minor tan from a vacation that never really went away.
+###### Aelianas has a green eye and a cybernetic eye. Her hair color is naturally auburn, but she dyes it a vibrant purple on occasion. She is white, but with a very minor tan from a vacation that never really went away.
 
 ###### Aelianas was rescued during a search-and-rescue mission at 3 months old. She was found in a Sidewinder, owned by a deceased couple that was boarded and raided by pirates. The standing theory is that the pirates didn't feel particularly good about killing an infant, but they were also not against leaving it to starve. However, some evidence from the crime scene suggested that the pirates sent out a distress call after plundering the ship so that the child could be rescued. Fingerprints not matching the ship's commanders were found on the controls of the distress call sequence keys. The pirates were never caught.
 
