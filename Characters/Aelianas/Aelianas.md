@@ -3,7 +3,13 @@
 ### ==Birthplace:== Unknown
 ### ==Age:== 
 ```dataviewjs
-`= round((date(today) - date(1992-07-28)).years)` years old.
+const birthDate = new Date("1992-07-28");
+const ageDifMs = Date.now() - birthDate.getTime();
+const ageDate = new Date(ageDifMs); 
+const age = Math.abs(ageDate.getUTCFullYear() - 1970);
+
+dv.paragraph(`${age} years old`);
+
 ```
 ### ==Gender:== Female
 ### ==Height:== 179.07cm
