@@ -1,7 +1,8 @@
-# Star Quantity: 2
-# Star Type(s):
+# #StarQuantity: 2
+# #StarType(s):
 	- Col 285 Sector QT-Q c5-3 A: T Tauri Type
 	- Col 285 Sector QT-Q c5-3 B: T Tauri Type
+# #Stations 
 **==Stations:==**
 	- [[Purple Cat Trading Company (Col 285 Sector QT-Q C5-3)|Purple Cat Trading Company (Col 285 Sector QT-Q C5-3)]]
 	- [[Purple Cat Paradise]]
