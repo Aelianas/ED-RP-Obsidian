@@ -27,4 +27,14 @@
 	- [[Purple Cat Trading Company (North America Sector UK-N b7-2)]]
 	- [[Farrer Depot]] (Outpost)
 
+# #OrbitalFacilities
+**==Orbital Facilities==**
+	
+
+# #SurfaceStations
+**==Surface Stations:==**
+	[[Jeffries Military Complex]]
+	[[Olowe Drilling Territory]]
+	[[Amos Cultivation Facility]]
+
 The third star system colonized by [[Aelianas]]. It's the home of the second [[Purple Cat Paradise (Company)]] locations.
