@@ -1,3 +1,4 @@
+# #Inara Link: https://inara.cz/elite/starsystem/4409239/
 # #StarQuantity: 1
 
 # #StarType(s):
