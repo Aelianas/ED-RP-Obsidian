@@ -29,7 +29,8 @@
 
 # #OrbitalFacilities
 **==Orbital Facilities==**
-	
+	[[Weyn's Folly]]
+	[[Solanas Town]]
 
 # #SurfaceStations
 **==Surface Stations:==**
